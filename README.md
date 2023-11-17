@@ -22,7 +22,7 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Go](#go)
 - [SQL](#sql)
 
-## Javascript
+## ![Javascript](https://skillicons.dev/icons?i=js)Javascript
 ### Books
 ### Youtube
 ## Python
