@@ -28,6 +28,7 @@ We welcome contributions to this repository. If you have a resource that you thi
 ## Python
 ### Books
 ### Youtube
+- [Corey Schafer](https://www.youtube.com/c/Coreyms), a channel with loads of Python, Flask, and Django tutorials.
 ## Go
 ### Books
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), by John Bodner
