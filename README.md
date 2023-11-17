@@ -12,7 +12,7 @@ The hope is that this repository will be a living document and will be updated a
 
 ## 🤘🏻 Contributing
 
-We welcome contributions to this repository. If you have a resource that you think would be a good fit, please open a pull request. If you have any questions, please reach out to the [Boot.dev community on Discord](https://discord.gg/EEkFwbv).
+We welcome contributions to this repository. If you have a resource that you think would be a good fit, and as this repo is part of a learning community, we encourage you to open a pull request to submit your addition since it tends to be difficult to get Git experience. If you have any questions, please reach out to the [Boot.dev community on Discord](https://discord.gg/EEkFwbv).
 
 
 ## :book: Table of Contents
