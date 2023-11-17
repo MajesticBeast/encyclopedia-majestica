@@ -10,9 +10,9 @@ It should be noted that this is not an official Boot.dev resource. It has been c
 ### Goal
 The hope is that this repository will be a living document and will be updated as new quality resources are discovered, or as existing resources become outdated.
 
-## Contributing
+## 🤘🏻 Contributing
 
-We welcome contributions to this repository. If you have a resource that you think would be a good fit, please open a pull request. If you have any questions, please reach out to the Boot.dev community on Discord.
+We welcome contributions to this repository. If you have a resource that you think would be a good fit, please open a pull request. If you have any questions, please reach out to the [Boot.dev community on Discord](https://discord.gg/EEkFwbv).
 
 
 ## :book: Table of Contents
