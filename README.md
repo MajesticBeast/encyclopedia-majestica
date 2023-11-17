@@ -23,6 +23,14 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [SQL](#sql)
 
 ## Javascript
+### Books
+### Youtube
 ## Python
+### Books
+### Youtube
 ## Go
+### Books
+### Youtube
 ## SQL
+### Books
+### Youtube
