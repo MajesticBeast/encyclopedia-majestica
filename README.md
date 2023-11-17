@@ -22,14 +22,13 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Go](#go)
 - [SQL](#sql)
 
-<div style='text-align: right'>
-![Javascript](https://skillicons.dev/icons?i=js)
-</div>
 ## Javascript
 ### Books
 ### Youtube
 ## Python
 ### Books
+- [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), by John Bodner | Released March 2021 | Publisher(s): O'Reilly Media, Inc. | ISBN: 9781492077169
+- [Go Cookbook](https://www.oreilly.com/library/view/go-cookbook/9781098122102/), by Sau Sheong Chang | Released September 2023 | Publisher(s): O'Reilly Media, Inc. | ISBN: 9781098122119
 ### Youtube
 ## Go
 ### Books
