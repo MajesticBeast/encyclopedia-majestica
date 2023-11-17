@@ -18,12 +18,21 @@ We welcome contributions to this repository. If you have a resource that you thi
 ## :book: Table of Contents
 
 - [Javascript](#javascript)
+  - [Books](#books)
+  - [Youtube](#youtube)
+  - [Cheatsheets](#cheatsheets)
 - [Python](#python)
+  - [Books](#books-1)
+  - [Youtube](#youtube-1)
+  - [Cheatsheets](#cheatsheets-1)
 - [Go](#go)
   - [Books](#books-2)
   - [Youtube](#youtube-2)
   - [Cheatsheets](#cheatsheets-2)
 - [SQL](#sql)
+    - [Books](#books-3)
+    - [Youtube](#youtube-3)
+    - [Cheatsheets](#cheatsheets-3)
 
 ## Javascript
 ### Books
