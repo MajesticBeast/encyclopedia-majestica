@@ -20,6 +20,7 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Javascript](#javascript)
 - [Python](#python)
 - [Go](#go)
+  - [Books](#books)
 - [SQL](#sql)
 
 ## Javascript
