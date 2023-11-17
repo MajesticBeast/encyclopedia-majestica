@@ -13,3 +13,16 @@ The hope is that this repository will be a living document and will be updated a
 ## Contributing
 
 We welcome contributions to this repository. If you have a resource that you think would be a good fit, please open a pull request. If you have any questions, please reach out to the Boot.dev community on Discord.
+
+
+## Table of Contents
+
+- [Javascript](#javascript)
+- [Python](#python)
+- [Go](#go)
+- [SQL](#sql)
+
+## Javascript
+## Python
+## Go
+## SQL
