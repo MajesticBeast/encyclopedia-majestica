@@ -45,7 +45,7 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Released September 2023
   - Publisher(s): O'Reilly Media, Inc.
   - ISBN: 9781098122119
-  - Intermediate
+  - Difficulty: Intermediate
 ### Youtube
 - [Golang Dojo](https://www.youtube.com/c/GolangDojo), a channel with bite-sized videos on specific Go topics.
 ### Cheatsheets
