@@ -22,12 +22,13 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Go](#go)
   - [Books](#books-2)
   - [Youtube](#youtube-2)
-  - [Cheatsheets](#cheatsheets)
+  - [Cheatsheets](#cheatsheets-2)
 - [SQL](#sql)
 
 ## Javascript
 ### Books
 ### Youtube
+### Cheatsheets
 ## Python
 ### Books
 - [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2), by Al Sweigart
@@ -37,6 +38,7 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Difficulty: Beginner
 ### Youtube
 - [Corey Schafer](https://www.youtube.com/c/Coreyms), a channel with loads of Python, Flask, and Django tutorials.
+### Cheatsheets
 ## Go
 ### Books
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), by John Bodner
