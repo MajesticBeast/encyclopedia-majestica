@@ -55,6 +55,11 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Publisher(s): O'Reilly Media, Inc.
   - ISBN: 9781492077169
   - Difficulty: Intermediate
+- [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/), by Katherine Cox-Buday
+  - Released July 2017
+  - Publisher(s): O'Reilly Media, Inc.
+  - ISBN: 1491941197 ??
+  - Difficulty: Intermediate
 - [Go Cookbook](https://www.oreilly.com/library/view/go-cookbook/9781098122102/), by Sau Sheong Chang
   - Released September 2023
   - Publisher(s): O'Reilly Media, Inc.
