@@ -90,3 +90,8 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Difficulty: Beginner
 ### Youtube
 ### Cheatsheets
+- [Ultimate SQL Cheatsheet](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf), an all in one cheatsheet covering SQL basics, window functions, joins, and standard functions (text, numeric, nulls, case when, aggregation & grouping, date and time, intervals, and time zones).
+  - Released February 2023
+- [SQL Cheatsheet for Developers](https://www.cockroachlabs.com/blog/sql-cheat-sheet/#create-tablehttpswwwcockroachlabscomdocsstablecreate-table), a SQL cheatsheet from Cockroach Labs geared towards developers rather than data analysts.  
+  - Released September 21, 2023
+  - Includes monitoring and ops commands (e.g., `EXPLAIN ANALYZE`)
