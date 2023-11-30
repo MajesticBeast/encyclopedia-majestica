@@ -71,5 +71,15 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Golang Dojo general cheatsheet](https://github.com/thegolangdojo/cheatsheet/blob/main/cheatsheet.pdf), a cheatsheet with the most common Go functions, types and syntax.
 ## SQL
 ### Books
+- [SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/), by Anthony Molinaro, Robert de Graaf
+  - Released November 2020
+  - Publisher(s): O'Reilly Media, Inc.
+  - ISBN: 9781492077442
+  - Difficulty: Intermediate
+- [Practical SQL](https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/?_gl=1*1c9zix9*_ga*OTAxMzkyOTMyLjE2OTI5MTE3NjE.*_ga_092EL089CH*MTcwMTMyMzc4OS4xNC4xLjE3MDEzMjM4NjkuMC4wLjA.), by Anthony DeBarros
+  - Released March 2022
+  - Publisher(s): No Starch Press
+  - ISBN: 9781718501065
+  - Difficulty: Beginner
 ### Youtube
 ### Cheatsheets
