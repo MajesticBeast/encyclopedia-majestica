@@ -45,9 +45,16 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Publisher(s): No Starch Press
   - ISBN: 9781593279929
   - Difficulty: Beginner
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/?_gl=1*1hhm3fi*_ga*OTAxMzkyOTMyLjE2OTI5MTE3NjE.*_ga_092EL089CH*MTcwMTMyMzc4OS4xNC4xLjE3MDEzMjQwMTAuMC4wLjA.), by Lucas Ramalho
+  - Released April 2022
+  - Publisher(s): O'Reilly Media, Inc.
+  - ISBN: 9781492056355
+  - Difficulty: Intermediate
 ### Youtube
 - [Corey Schafer](https://www.youtube.com/c/Coreyms), a channel with loads of Python, Flask, and Django tutorials.
 ### Cheatsheets
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/), by Jure Sorn
+  - Last Updated: November 29, 2023
 ## Go
 ### Books
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), by John Bodner
