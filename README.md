@@ -45,9 +45,16 @@ We welcome contributions to this repository. If you have a resource that you thi
   - Publisher(s): No Starch Press
   - ISBN: 9781593279929
   - Difficulty: Beginner
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/?_gl=1*1hhm3fi*_ga*OTAxMzkyOTMyLjE2OTI5MTE3NjE.*_ga_092EL089CH*MTcwMTMyMzc4OS4xNC4xLjE3MDEzMjQwMTAuMC4wLjA.), by Lucas Ramalho
+  - Released April 2022
+  - Publisher(s): O'Reilly Media, Inc.
+  - ISBN: 9781492056355
+  - Difficulty: Intermediate
 ### Youtube
 - [Corey Schafer](https://www.youtube.com/c/Coreyms), a channel with loads of Python, Flask, and Django tutorials.
 ### Cheatsheets
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/), by Jure Sorn
+  - Last Updated: November 29, 2023
 ## Go
 ### Books
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/), by John Bodner
@@ -71,5 +78,20 @@ We welcome contributions to this repository. If you have a resource that you thi
 - [Golang Dojo general cheatsheet](https://github.com/thegolangdojo/cheatsheet/blob/main/cheatsheet.pdf), a cheatsheet with the most common Go functions, types and syntax.
 ## SQL
 ### Books
+- [SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/), by Anthony Molinaro, Robert de Graaf
+  - Released November 2020
+  - Publisher(s): O'Reilly Media, Inc.
+  - ISBN: 9781492077442
+  - Difficulty: Intermediate
+- [Practical SQL](https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/?_gl=1*1c9zix9*_ga*OTAxMzkyOTMyLjE2OTI5MTE3NjE.*_ga_092EL089CH*MTcwMTMyMzc4OS4xNC4xLjE3MDEzMjM4NjkuMC4wLjA.), by Anthony DeBarros
+  - Released March 2022
+  - Publisher(s): No Starch Press
+  - ISBN: 9781718501065
+  - Difficulty: Beginner
 ### Youtube
 ### Cheatsheets
+- [Ultimate SQL Cheatsheet](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf), an all in one cheatsheet covering SQL basics, window functions, joins, and standard functions (text, numeric, nulls, case when, aggregation & grouping, date and time, intervals, and time zones).
+  - Released February 2023
+- [SQL Cheatsheet for Developers](https://www.cockroachlabs.com/blog/sql-cheat-sheet/#create-tablehttpswwwcockroachlabscomdocsstablecreate-table), a SQL cheatsheet from Cockroach Labs geared towards developers rather than data analysts.  
+  - Released September 21, 2023
+  - Includes monitoring and ops commands (e.g., `EXPLAIN ANALYZE`)
