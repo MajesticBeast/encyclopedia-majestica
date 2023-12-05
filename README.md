@@ -75,6 +75,9 @@ We welcome contributions to this repository. If you have a resource that you thi
 ### Youtube
 - [Matt Holiday](https://www.youtube.com/@mattkdvb5154), a very well thought out, explained, and presented full Go course that supplements Boot.dev's Learn Go course.
 - [Golang Dojo](https://www.youtube.com/c/GolangDojo), a channel with bite-sized videos on specific Go topics.
+### Blogs
+- [Yourbasic.org](https://yourbasic.org/golang/), blog by computer science Professor Stefan Nilsson (KTH Royal Institute of Technology) covering Go and Algorithms
+- [Concurrent Programming](https://yourbasic.org/golang/concurrent-programming/), a series of Yourbasic.org's blog posts covering the foundations of concurrency in Go.
 ### Cheatsheets
 - [Golang Dojo general cheatsheet](https://github.com/thegolangdojo/cheatsheet/blob/main/cheatsheet.pdf), a cheatsheet with the most common Go functions, types and syntax.
 ## SQL
