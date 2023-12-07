@@ -94,6 +94,9 @@ We welcome contributions to this repository. If you have a resource that you thi
 ### Practice
 - [Window Functions](http://www.windowfunctions.com/), a SQL window functions tutorial completely in the browser. Learn how to use window functions with practice problems using a PostgreSQL engine all in your browser!
   - Difficulty: Intermediate
+### Blogs
+- [SQL Joins - Animated](https://dataschool.com/how-to-teach-people-sql/inner-join-animated/), learn the basics of SQL Joins (inner, left, & right) with animated GIFs - great for visual learners!
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/), interactive venn diagram of SQL Joins with code generation. Click on parts of the venn diagram to build a SQL Join between two tables and get the corresponding code below!
 ### Youtube
 ### Cheatsheets
 - [Ultimate SQL Cheatsheet](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf), an all in one cheatsheet covering SQL basics, window functions, joins, and standard functions (text, numeric, nulls, case when, aggregation & grouping, date and time, intervals, and time zones).
