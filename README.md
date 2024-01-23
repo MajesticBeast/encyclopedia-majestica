@@ -36,7 +36,7 @@ We welcome contributions to this repository. If you have a resource that you thi
 
 ## Javascript
 ### Books
--[Eloquent JavaScript 3rd Edition]("https://eloquentjavascript.net/"), by Marijin Haverbeke
+- [Eloquent JavaScript 3rd Edition]("https://eloquentjavascript.net/"), by Marijin Haverbeke
   - Released 2018
   - Publisher(s): No Starch Press
   - ISBN: 9781593279509
